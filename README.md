@@ -1,0 +1,2 @@
+# Insurance-Eligibility-Prediction-Decision-Tree-vs-Random-Forest-on-Real-Medical-Data
+A **reproducible Machine Learning project** that predicts **insurance eligibility** using the real-world **Medical Cost Personal Dataset**.   The project compares an interpretable **Decision Tree** with a high-performance **Random Forest**, supported by exploratory data analysis, visualizations, and clean ML engineering practices.
